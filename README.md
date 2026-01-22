@@ -1,6 +1,6 @@
 # Energy Hub Systems Optimization – Bachelor Thesis
 
-This repository contains the code, presentation, and supporting materials for my **Bachelor Thesis** on **Energy Hub Systems**. The project focuses on the optimal operation and control of multi-carrier energy systems using **Model Predictive Control (MPC)**.
+This repository contains the code and presentation material for my **Bachelor Thesis** on **Energy Hub Systems**. The project focuses on the optimal operation and control of multi-carrier energy systems using **Model Predictive Control (MPC)**.
 
 Energy hub systems integrate multiple energy carriers (electricity, heating, and cooling) to efficiently distribute energy, reduce operational losses, and minimize environmental impact. This project develops an optimization model to determine the **optimal production and distribution** of energy while considering the physical and operational constraints of system components. Renewable energy sources, such as photovoltaic (PV) systems, are included in the decision-making process.  
 
